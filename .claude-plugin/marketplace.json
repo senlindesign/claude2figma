@@ -1,0 +1,20 @@
+{
+  "name": "claude2figma",
+  "description": "Skills for enforcing Design System compliance in Claude + Figma workflows. Includes preflight checks, style binding, component rules, and reference interpretation.",
+  "owner": {
+    "name": "senlindesign",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "claude2figma",
+      "source": "./",
+      "description": "Design System compliance harness for Claude + Figma. Enforces library-first components, token binding, and automated QA.",
+      "homepage": "https://github.com/senlindesign/claude2figma",
+      "repository": "https://github.com/senlindesign/claude2figma",
+      "license": "MIT",
+      "category": "design",
+      "tags": ["figma", "design-system", "tokens", "ui", "compliance"]
+    }
+  ]
+}

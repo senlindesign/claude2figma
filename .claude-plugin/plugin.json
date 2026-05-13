@@ -1,0 +1,13 @@
+{
+  "name": "claude2figma",
+  "description": "Design System compliance harness for Claude + Figma. Enforces library-first components, token binding, and automated QA — so AI-generated designs stay on-spec.",
+  "version": "1.0.0",
+  "author": {
+    "name": "senlindesign"
+  },
+  "homepage": "https://github.com/senlindesign/claude2figma",
+  "repository": "https://github.com/senlindesign/claude2figma",
+  "license": "MIT",
+  "keywords": ["figma", "design-system", "tokens", "compliance", "ui"],
+  "skills": "./.claude/skills"
+}
